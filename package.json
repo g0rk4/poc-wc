@@ -72,6 +72,9 @@
     "doc": "docs",
     "test": "test"
   },
+  "publishConfig": {
+    "@g0rk4:registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/g0rk4/poc-wc.git"
